@@ -15,15 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="gamefuction.c">
+    <ClCompile Include="UnitTest1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="main.c">
+    <ClCompile Include="pch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="gamefunction.h">
+    <ClInclude Include="pch.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
